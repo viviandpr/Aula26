@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\bin\Debug\Aula26.exe.config
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\bin\Debug\Aula26.exe
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\bin\Debug\Aula26.pdb
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\obj\Debug\Aula26.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\obj\Debug\Aula26.No.resources
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\obj\Debug\Aula26.Properties.Resources.resources
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\obj\Debug\Aula26.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\obj\Debug\Aula26.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\obj\Debug\Aula26.exe
+C:\Users\Dell\Desktop\Mestrado\Programas\Aula26\Aula26\obj\Debug\Aula26.pdb
